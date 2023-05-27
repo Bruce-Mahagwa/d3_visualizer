@@ -1,5 +1,5 @@
 ## Live site
-[Live Site]("https://replit.com/@brucejacob/d3reactsimplevisualizationviewer?v=1")
+[Live Site](https://replit.com/@brucejacob/d3reactsimplevisualizationviewer?v=1)
 
 ## Running React on Repl.it
 
